@@ -1,5 +1,11 @@
 # Data_Science
-# Datascience required lib
+
+# for Data science action  required these libraries 
+
 * import sklearn
 * import pandas
 * import matplotlib
+# link:
+* https://www.kaggle.com/c/titanic
+
+
