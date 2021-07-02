@@ -5,7 +5,7 @@
 * import sklearn
 * import pandas
 * import matplotlib
-# link:
+# link for download data:
 * https://www.kaggle.com/c/titanic
 
 
