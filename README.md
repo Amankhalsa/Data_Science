@@ -1,12 +1,12 @@
 # Data_Science
 
 # for Data science action  required these libraries 
-  * import sklearn
-  * import pandas
-  * import matplotlib
-  * import seaborn
+     * import sklearn
+     * import pandas
+     * import matplotlib
+     * import seaborn
 # link for download data:
-  * https://www.kaggle.com/c/titanic
+     * https://www.kaggle.com/c/titanic
 
 # in Data science 
     * 1. Pre process  
